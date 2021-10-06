@@ -3,6 +3,7 @@
 - 🌱 I’m currently majoring in Computer Science B.S. at Florida State University.
 - 💞️ I’m looking to collaborate on any project!
 - 📫 You can reach me on LinkedIn at linkedin.com/in/brian-pob/
+- 🌐 Also check out my GitHub Pages website at https://brian-pob.github.io/
 
 <!---
 Brian-Pob/Brian-Pob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
