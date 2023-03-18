@@ -81,4 +81,5 @@ This profile was made using Mauro De Souza's awesome profile readme generator! [
 
 [jamesgeorge007's activity readme updater](https://github.com/jamesgeorge007/github-activity-readme)
 
+[DenverCoder1's GitHub streak stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 ###
