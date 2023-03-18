@@ -72,7 +72,6 @@
   <img src="https://streak-stats.demolab.com/?user=Brian-Pob" height="150" alt="languages graph"  />
 </div>
 
-[![GitHub Streak]()](https://git.io/streak-stats)
 
 ###
 
