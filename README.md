@@ -32,15 +32,6 @@
 </div>
 
 
-<h2 align="left">:zap: Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-2. 🗣 Commented on [#1304](https://github.com/solidjs/solid/issues/1304) in [solidjs/solid](https://github.com/solidjs/solid)
-3. 💪 Opened PR [#230](https://github.com/solidjs/solid-docs-next/pull/230) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-4. 🗣 Commented on [#414](https://github.com/solidjs/solid-site/issues/414) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
-5. 🎉 Merged PR [#10](https://github.com/Brian-Pob/frontend-mentor/pull/10) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-<!--END_SECTION:activity-->
 
 ###
 
@@ -60,6 +51,21 @@
 
 ###
 
+<h2 align="left">:zap: Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+2. 🗣 Commented on [#1304](https://github.com/solidjs/solid/issues/1304) in [solidjs/solid](https://github.com/solidjs/solid)
+3. 💪 Opened PR [#230](https://github.com/solidjs/solid-docs-next/pull/230) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+4. 🗣 Commented on [#414](https://github.com/solidjs/solid-site/issues/414) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
+5. 🎉 Merged PR [#10](https://github.com/Brian-Pob/frontend-mentor/pull/10) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+<!--END_SECTION:activity-->
+
+###
+
+<h2 align="left">My GitHub stats</h2>
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Brian-Pob&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brian-Pob&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -69,6 +75,8 @@
 
 <h2 align="left">Credits</h2>
 
-<p align="left">This profile was made using Mauro De Souza's awesome profile readme generator! Go check it out!<br><br>https://github.com/maurodesouza/profile-readme-generator</p>
+This profile was made using Mauro De Souza's awesome profile readme generator! [Go check it out!](https://github.com/maurodesouza/profile-readme-generator)
+
+[jamesgeorge007's activity readme updater](https://github.com/jamesgeorge007/github-activity-readme)
 
 ###
