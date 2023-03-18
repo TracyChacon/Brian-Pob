@@ -31,6 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
 </div>
 
+
+<h2 align="left">:zap: Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+
 ###
 
 <h2 align="left">Connect with me!</h2>
