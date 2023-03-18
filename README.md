@@ -35,6 +35,12 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+2. 🗣 Commented on [#1304](https://github.com/solidjs/solid/issues/1304) in [solidjs/solid](https://github.com/solidjs/solid)
+3. 💪 Opened PR [#230](https://github.com/solidjs/solid-docs-next/pull/230) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+4. 🗣 Commented on [#414](https://github.com/solidjs/solid-site/issues/414) in [solidjs/solid-site](https://github.com/solidjs/solid-site)
+5. 🎉 Merged PR [#10](https://github.com/Brian-Pob/frontend-mentor/pull/10) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+<!--END_SECTION:activity-->
 
 ###
 
