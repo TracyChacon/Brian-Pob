@@ -10,9 +10,13 @@
 
 ###
 
-- 👀 I'm mainly a front-end web dev but I love all things computer science!
-- 🌱 I’m currently majoring in Computer Science B.S. at Florida State University.
-- 🧠 Technologies I'm learning right now: TypeScript, SolidJS, and TailwindCSS.
+👀 - I'm mainly a front-end web dev but I love all things computer science!
+
+🌱 - I’m currently majoring in Computer Science B.S. at Florida State University.
+
+🧠 - I'm currently learning the following technologies: TypeScript, SolidJS, TailwindCSS.
+
+💙 - I'm actively participating in the SolidJS community with contributions to the [new docs site](https://github.com/solidjs/solid-docs-next).
 
 ###
 
