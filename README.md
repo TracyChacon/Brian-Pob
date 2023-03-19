@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">👀 I'm mainly a front-end web dev but I love all things computer science!<br>🌱 I’m currently majoring in Computer Science B.S. at Florida State University.<br>🧠 Technologies I'm learning right now: TypeScript, SolidJS, and TailwindCSS.</p>
+- 👀 I'm mainly a front-end web dev but I love all things computer science!
+- 🌱 I’m currently majoring in Computer Science B.S. at Florida State University.
+- 🧠 Technologies I'm learning right now: TypeScript, SolidJS, and TailwindCSS.
 
 ###
 
