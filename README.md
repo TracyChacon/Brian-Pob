@@ -54,6 +54,10 @@
   <a href="https://codesandbox.io/u/Brian-Pob" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codesandbox/default.svg" width="52" height="40" alt="codesandbox logo"  />
   </a>
+  <a href="https://www.frontendmentor.io/profile/Brian-Pob" target="_blank">
+    <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="52" height="40" alt="frontend mentor logo"  />
+  </a>
+  
 </div>
 
 ###
