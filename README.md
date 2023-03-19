@@ -59,11 +59,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-2. 🗣 Commented on [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-3. 🗣 Commented on [#230](https://github.com/solidjs/solid-docs-next/issues/230) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-4. ❗️ Opened issue [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-5. 🗣 Commented on [#1304](https://github.com/solidjs/solid/issues/1304) in [solidjs/solid](https://github.com/solidjs/solid)
+1. ❗️ Opened issue [#237](https://github.com/solidjs/solid-docs-next/issues/237) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+2. ❗️ Closed issue [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+3. 🗣 Commented on [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+4. 🗣 Commented on [#230](https://github.com/solidjs/solid-docs-next/issues/230) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+5. ❗️ Opened issue [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
 <!--END_SECTION:activity-->
 
 ###
