@@ -56,6 +56,9 @@
   <a href="https://www.frontendmentor.io/profile/Brian-Pob" target="_blank">
     <img src="https://www.frontendmentor.io/static/images/logo-mobile.svg" width="52" height="40" alt="frontend mentor logo"  />
   </a>
+  <a href="https://dev.to/brianpob" target="_blank">
+    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="52" height="40" alt="frontend mentor logo"  />
+  </a>
   
 </div>
 
