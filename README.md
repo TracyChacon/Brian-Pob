@@ -16,7 +16,7 @@
 
 🧠 - Learning and experimenting with the following technologies: TypeScript, SolidJS, TailwindCSS.
 
-💙 - Actively participating in the SolidJS community with contributions to the [new docs site](https://github.com/solidjs/solid-docs-next).
+<img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/solidjs/solidjs-original.svg" height="15" width="18" alt="solidjs logo"  /> - Actively participating in the SolidJS community with contributions to the [new docs site](https://github.com/solidjs/solid-docs-next).
 
 ###
 
