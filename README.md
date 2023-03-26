@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#238](https://github.com/solidjs/solid-docs-next/pull/238) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-2. 🗣 Commented on [#237](https://github.com/solidjs/solid-docs-next/issues/237) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-3. ❗️ Opened issue [#237](https://github.com/solidjs/solid-docs-next/issues/237) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-4. ❗️ Closed issue [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-5. 🗣 Commented on [#235](https://github.com/solidjs/solid-docs-next/issues/235) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+1. 🎉 Merged PR [#12](https://github.com/Brian-Pob/frontend-mentor/pull/12) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+2. 💪 Opened PR [#12](https://github.com/Brian-Pob/frontend-mentor/pull/12) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+3. 🎉 Merged PR [#11](https://github.com/Brian-Pob/frontend-mentor/pull/11) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+4. 💪 Opened PR [#11](https://github.com/Brian-Pob/frontend-mentor/pull/11) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+5. 💪 Opened PR [#238](https://github.com/solidjs/solid-docs-next/pull/238) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
 <!--END_SECTION:activity-->
 
 ###
