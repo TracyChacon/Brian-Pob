@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#992](https://github.com/ReactTooltip/react-tooltip/pull/992) in [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip)
-2. 🗣 Commented on [#238](https://github.com/solidjs/solid-docs-next/issues/238) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+1. 💪 Opened PR [#1](https://github.com/Brian-Pob/mason-hagan-website/pull/1) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
+2. 💪 Opened PR [#992](https://github.com/ReactTooltip/react-tooltip/pull/992) in [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip)
 3. 🗣 Commented on [#238](https://github.com/solidjs/solid-docs-next/issues/238) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
-4. 💪 Opened PR [#13](https://github.com/Brian-Pob/frontend-mentor/pull/13) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
-5. 🎉 Merged PR [#12](https://github.com/Brian-Pob/frontend-mentor/pull/12) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
+4. 🗣 Commented on [#238](https://github.com/solidjs/solid-docs-next/issues/238) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+5. 💪 Opened PR [#13](https://github.com/Brian-Pob/frontend-mentor/pull/13) in [Brian-Pob/frontend-mentor](https://github.com/Brian-Pob/frontend-mentor)
 <!--END_SECTION:activity-->
 
 ###
