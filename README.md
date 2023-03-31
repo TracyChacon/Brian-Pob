@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Brian-Pob/mason-hagan-website/pull/2) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
-2. 💪 Opened PR [#2](https://github.com/Brian-Pob/mason-hagan-website/pull/2) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
-3. 💪 Opened PR [#1](https://github.com/Brian-Pob/mason-hagan-website/pull/1) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
-4. 💪 Opened PR [#992](https://github.com/ReactTooltip/react-tooltip/pull/992) in [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip)
-5. 🗣 Commented on [#238](https://github.com/solidjs/solid-docs-next/issues/238) in [solidjs/solid-docs-next](https://github.com/solidjs/solid-docs-next)
+1. 🎉 Merged PR [#3](https://github.com/Brian-Pob/mason-hagan-website/pull/3) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
+2. 💪 Opened PR [#3](https://github.com/Brian-Pob/mason-hagan-website/pull/3) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
+3. 🎉 Merged PR [#2](https://github.com/Brian-Pob/mason-hagan-website/pull/2) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
+4. 💪 Opened PR [#2](https://github.com/Brian-Pob/mason-hagan-website/pull/2) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
+5. 💪 Opened PR [#1](https://github.com/Brian-Pob/mason-hagan-website/pull/1) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
 <!--END_SECTION:activity-->
 
 ###
