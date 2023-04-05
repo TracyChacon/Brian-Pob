@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/masonhgn/personal-website/pull/2) in [masonhgn/personal-website](https://github.com/masonhgn/personal-website)
-2. 🎉 Merged PR [#3](https://github.com/Brian-Pob/mason-hagan-website/pull/3) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
-3. 💪 Opened PR [#3](https://github.com/Brian-Pob/mason-hagan-website/pull/3) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
-4. 🎉 Merged PR [#2](https://github.com/Brian-Pob/mason-hagan-website/pull/2) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
-5. 💪 Opened PR [#2](https://github.com/Brian-Pob/mason-hagan-website/pull/2) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
+1. 🗣 Commented on [#1](https://github.com/Brian-Pob/swe2_proshop_mern/issues/1) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+2. 🎉 Merged PR [#1](https://github.com/Brian-Pob/swe2_proshop_mern/pull/1) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+3. 💪 Opened PR [#2](https://github.com/masonhgn/personal-website/pull/2) in [masonhgn/personal-website](https://github.com/masonhgn/personal-website)
+4. 🎉 Merged PR [#3](https://github.com/Brian-Pob/mason-hagan-website/pull/3) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
+5. 💪 Opened PR [#3](https://github.com/Brian-Pob/mason-hagan-website/pull/3) in [Brian-Pob/mason-hagan-website](https://github.com/Brian-Pob/mason-hagan-website)
 <!--END_SECTION:activity-->
 
 ###
