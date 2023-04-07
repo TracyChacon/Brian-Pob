@@ -67,11 +67,11 @@
 <h2 align="left">:zap: Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5888](https://github.com/EddieHubCommunity/LinkFree/pull/5888) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#7](https://github.com/Brian-Pob/swe2_proshop_mern/pull/7) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-3. 🗣 Commented on [#1](https://github.com/Brian-Pob/swe2_proshop_mern/issues/1) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-4. 🎉 Merged PR [#1](https://github.com/Brian-Pob/swe2_proshop_mern/pull/1) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
-5. 💪 Opened PR [#2](https://github.com/masonhgn/personal-website/pull/2) in [masonhgn/personal-website](https://github.com/masonhgn/personal-website)
+1. 🎉 Merged PR [#9](https://github.com/Brian-Pob/swe2_proshop_mern/pull/9) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+2. 🗣 Commented on [#9](https://github.com/Brian-Pob/swe2_proshop_mern/issues/9) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+3. 💪 Opened PR [#5888](https://github.com/EddieHubCommunity/LinkFree/pull/5888) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#7](https://github.com/Brian-Pob/swe2_proshop_mern/pull/7) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
+5. 🗣 Commented on [#1](https://github.com/Brian-Pob/swe2_proshop_mern/issues/1) in [Brian-Pob/swe2_proshop_mern](https://github.com/Brian-Pob/swe2_proshop_mern)
 <!--END_SECTION:activity-->
 
 ###
